@@ -37,7 +37,7 @@ h3 {
 div.col-xs-12 {
 	background-color: #f2f4a4;
 	text-align: justify;
-	margin-top: 40px;
+	margin-top: 30px;
 }
 
 
@@ -46,7 +46,7 @@ div.col-xs-12 {
 /*   Dispositivos XS   */
 @media (max-width: 767px) {
 	#header-nav {
-		padding-bottom: 6px;
+		padding-bottom: 0px;
 	}
 
 	#collapsable-nav {
@@ -70,7 +70,7 @@ div.col-xs-12 {
 	}
 
 	button.navbar-toggle { /* Ubicación del botón */
-		margin: 30px 20px;
+		margin: 35px 20px;
 	}
 
 	.navbar-header button.navbar-toggle, .navbar-header .icon-bar { /* Apariencia del botón */
